@@ -5,7 +5,6 @@
   [![Twitter](https://img.shields.io/badge/-@drdiffie-000?style=for-the-badge&logo=x&logoColor=white&color=0d1117&labelColor=00ff41)](https://twitter.com/drdiffie)
   [![GitHub](https://img.shields.io/badge/-dr--diffie-000?style=for-the-badge&logo=github&logoColor=white&color=0d1117&labelColor=00ff41)](https://github.com/dr-diffie)
   
-  <img src="https://komarev.com/ghpvc/?username=dr-diffie&style=for-the-badge&color=00ff41&labelColor=0d1117" alt="Profile Views"/>
 </div>
 
 ---
